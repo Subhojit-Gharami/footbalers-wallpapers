@@ -1,0 +1,57 @@
+body{
+    background: url(https://www.nagios.com/wp-content/uploads/2017/01/Football-Field-Grass-Wallpaper-Green-grass-1280x800-wallpaper.jpg);
+    background-position: fixed;
+ 
+    margin-bottom: 100px;
+}
+
+.step{
+    width: 720px;
+    height: 1280px;
+}
+
+
+.jumbotron{
+    background: url("jumbotron.jpg");
+    background-size: cover;
+}
+
+.intro{
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Dosis', sans-serif;
+    font-weight: initial;
+    font: white;
+}
+
+.size-image{
+    width: 400px;
+    height:200px;
+}
+
+.text-shadow{
+    text-shadow: rgb(255, 255, 255) 1px 0 10px;
+
+}
+
+h4 a{
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+
+}
+
+.navbar{
+    border-bottom: 4px solid brown;
+}
+.Collapse-button{
+    color: white;
+    text-shadow: rgb(0,0,0) 1px 0 10px;
+
+}
+h2{
+    color: White;
+    text-shadow: rgb(0,0,0) 1px 0 10px;
+}
+
+.card{
+    box-shadow: black;
+}
